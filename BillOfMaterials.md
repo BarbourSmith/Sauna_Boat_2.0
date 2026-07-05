@@ -2,7 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|New Item|37|$0.00||
+|New Item|38|$0.00||
 |8' 2x6 Trex Board|19|$0.00||
 |Home Depot U Bolt|4|$19.96||
 |25mm M3 Bolt|8|$0.00||
@@ -11,4 +11,4 @@
 |35mm Bearing|2|$6.78|https://amzn.to/4n8PNkd|
 |Swim Ladder Hinge|1|$100.00|[Amazon](https://www.amazon.com/Laorde-Stainless-Hinges-Casting-Cabinet/dp/B0CG17WC8P?tag=maslowcnc01-20)|
 |24 Volt Servo|2|$89.70|[Amazon](https://www.amazon.com/dp/B0DFWQD5JL?tag=maslowcnc01-20)|
-|Total: |127|$216.44| |
+|Total: |128|$216.44| |
